@@ -31,3 +31,6 @@ Open [Live Demo](https://busy-buy-2.onrender.com/) to view it in your browser.
 
     Show toast messages for async actions and error conditions using the react-toustify library.
 
+   ![Screenshot 2024-05-18 160846](https://github.com/chandrika-2112/Busy-Buy/assets/120263733/6147a05a-1574-4a49-b6a9-e9058407e609)
+
+
